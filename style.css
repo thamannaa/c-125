@@ -1,0 +1,29 @@
+.heading{
+margin:0;
+width:100%;
+font-size:28px;
+box-shadow:7px 7px 7px gray;
+}
+
+.note{
+    
+    color:black;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.footer_copy{
+    position:fixed;
+    color:white;
+    width:100%;
+    background-color:grey;
+    text-align:center;
+    line-height:3;
+    bottom:0px;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+canvas{
+    border-radius:10px;
+    box-shadow:6px 6px 6px black;
+    border:5px solid white;
+}
